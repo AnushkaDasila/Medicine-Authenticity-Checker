@@ -1,2 +1,2 @@
-# Medicine-Authenticity-Checker
+# Medicne Autheticator checker
 
